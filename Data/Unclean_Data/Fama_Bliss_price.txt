@@ -1,6 +1,4 @@
-% Fama Bliss prices, downloaded from CRSP/WRDS 3/2014
-%   date     price1     price2     price3     price4     price5
-
+Date     Price1     Price2     Price3     Price4     Price5
 19530130     98.051     95.796     93.800     91.812     89.271
 19530227     97.950     95.703     93.666     91.617     88.923
 19530331     97.947     95.668     93.193     91.002     88.317
