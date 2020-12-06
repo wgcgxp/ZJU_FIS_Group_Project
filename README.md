@@ -1,4 +1,4 @@
-# ZJU_FIS_Group_Project简介
+# ZJU_FIS_Group_Project
 
 浙江大学2020秋冬学期固定收益证券分析和模型课程小组作业
 
